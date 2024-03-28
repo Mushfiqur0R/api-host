@@ -1,0 +1,80 @@
+[
+    {
+        "bookId": 1,
+        "bookName": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "image": "https://i.postimg.cc/Kz3LsNMy/image.png",
+        "review": "A captivating tale of love, wealth, and the American Dream.",
+        "totalPages": 180,
+        "rating": 4.5,
+        "category": "Classic",
+        "tags": ["Fiction", "Romance", "American Literature"],
+        "publisher": "Scribner",
+        "yearOfPublishing": 1925
+    },
+    {
+        "bookId": 2,
+        "bookName": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "image": "https://i.postimg.cc/bvWSbtFV/image.png",
+        "review": "A powerful story that addresses racial injustice and moral growth.",
+        "totalPages": 324,
+        "rating": 4.8,
+        "category": "Fiction",
+        "tags": ["Coming-of-Age", "Legal Drama", "Southern Gothic"],
+        "publisher": "J. B. Lippincott & Co.",
+        "yearOfPublishing": 1960
+    },
+    {
+        "bookId": 3,
+        "bookName": "1984",
+        "author": "George Orwell",
+        "image": "https://i.postimg.cc/hjVvd3mh/image.png",
+        "review": "An eerie portrayal of a dystopian society under totalitarian rule.",
+        "totalPages": 328,
+        "rating": 4.7,
+        "category": "Science Fiction",
+        "tags": ["Dystopian", "Political Fiction", "Social Commentary"],
+        "publisher": "Secker & Warburg",
+        "yearOfPublishing": 1949
+    },
+    {
+        "bookId": 4,
+        "bookName": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "image": "https://i.postimg.cc/fRFRghjJ/image.png",
+        "review": "A timeless romance set in Regency-era England.",
+        "totalPages": 432,
+        "rating": 4.6,
+        "category": "Classic",
+        "tags": ["Romance", "Satire", "British Literature"],
+        "publisher": "T. Egerton, Whitehall",
+        "yearOfPublishing": 1813
+    },
+    {
+        "bookId": 5,
+        "bookName": "The Catcher in the Rye",
+        "author": "J. D. Salinger",
+        "image": "https://i.postimg.cc/d1FvzQ7t/image.png",
+        "review": "An introspective journey of teenage angst and rebellion.",
+        "totalPages": 224,
+        "rating": 4.4,
+        "category": "Fiction",
+        "tags": ["Coming-of-Age", "Existentialism", "American Literature"],
+        "publisher": "Little, Brown and Company",
+        "yearOfPublishing": 1951
+    },
+    {
+        "bookId": 6,
+        "bookName": "The Hobbit",
+        "author": "J. R. R. Tolkien",
+        "image": "https://i.postimg.cc/T1Yx3kqz/image.png",
+        "review": "A delightful adventure filled with magic, dwarves, and dragons.",
+        "totalPages": 320,
+        "rating": 4.9,
+        "category": "Fantasy",
+        "tags": ["Adventure", "Middle-Earth", "Children's Literature"],
+        "publisher": "George Allen & Unwin",
+        "yearOfPublishing": 1937
+    }
+]
